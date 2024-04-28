@@ -1,5 +1,11 @@
 # lab3web
-Idris Syahrudin 312210467 TI.22.A5
+
+Nama    : Idris Syahrudin
+
+Nim     : 312210467
+
+Kls     : TI.22.A5
+
 ## Database
 ### Tabel
 
